@@ -1,0 +1,5 @@
+Name: Text to event
+
+Description: Quickly paste in text and get events pulled into Google Calendar
+
+Instructions: 
