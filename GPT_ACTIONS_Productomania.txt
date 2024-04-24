@@ -1,0 +1,49 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Introduce aquí el título",
+    "description": "Describe el propósito general de la acciones",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://hook.eu1.make.com"
+    }
+  ],
+  "paths": {
+    "/36nflw1isfjj¡gh7a47gpr8rg8": {
+      "post": {
+        "description": "Describe el propósito de la acción específica",
+        "operationId": "consultar_informacion",
+        "parameters": [],
+        "deprecated": false,
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "campo1": {
+                    "type": "string",
+                    "description": "Descripción de la información que se debe incluir en este campo"
+                  },
+                  "campo2": {
+                    "type": "string",
+                    "description": "Descripción de la información que se debe incluir en este campo"
+                  }
+                },
+                "required": [
+                  "campo1",
+                  "campo2"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {}
+  }
+}
