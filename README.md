@@ -15,3 +15,6 @@ https://www.loom.com/share/53dbb52900564dbcbd743ca8307348c5?sid=a5548ca7-18ed-48
 ## Create custom versions of ChatGPT with GPTs and Zapier
 https://zapier.com/blog/gpt-assistant/
 
+## GPT ACTIONS // Cómo editar el SCHEMA [Tutorial completo]
+https://www.youtube.com/watch?v=dNL4xPC8GBI
+
